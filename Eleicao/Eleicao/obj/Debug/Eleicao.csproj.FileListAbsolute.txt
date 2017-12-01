@@ -1,0 +1,14 @@
+C:\Users\Alexsander\source\repos\Eleicao\Eleicao\obj\Debug\Eleicao.csprojResolveAssemblyReference.cache
+C:\Users\Alexsander\source\repos\Eleicao\Eleicao\obj\Debug\Eleicao.csproj.CoreCompileInputs.cache
+C:\Users\Alexsander\source\repos\Eleicao\Eleicao\bin\Debug\Eleicao.exe.config
+C:\Users\Alexsander\source\repos\Eleicao\Eleicao\bin\Debug\Eleicao.exe
+C:\Users\Alexsander\source\repos\Eleicao\Eleicao\bin\Debug\Eleicao.pdb
+C:\Users\Alexsander\source\repos\Eleicao\Eleicao\obj\Debug\Eleicao.exe
+C:\Users\Alexsander\source\repos\Eleicao\Eleicao\obj\Debug\Eleicao.pdb
+C:\Users\Alexsander\Desktop\POO-master\Eleicao\Eleicao\obj\Debug\Eleicao.csprojResolveAssemblyReference.cache
+C:\Users\Alexsander\Desktop\POO-master\Eleicao\Eleicao\obj\Debug\Eleicao.csproj.CoreCompileInputs.cache
+C:\Users\Alexsander\Desktop\POO-master\Eleicao\Eleicao\obj\Debug\Eleicao.exe
+C:\Users\Alexsander\Desktop\POO-master\Eleicao\Eleicao\obj\Debug\Eleicao.pdb
+C:\Users\Alexsander\Desktop\POO-master\Eleicao\Eleicao\bin\Debug\Eleicao.exe.config
+C:\Users\Alexsander\Desktop\POO-master\Eleicao\Eleicao\bin\Debug\Eleicao.exe
+C:\Users\Alexsander\Desktop\POO-master\Eleicao\Eleicao\bin\Debug\Eleicao.pdb
